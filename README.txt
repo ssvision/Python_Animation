@@ -3,6 +3,10 @@ This repo contains all the python files from the course
 
 All files are added step by step.
 
+Pyhton Libraries required
+>>> Numpy
+>>> Matplotib
+
 Course is from Udemy
 Login :- 
 somdeb.electrical95@gmail.com
