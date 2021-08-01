@@ -3,9 +3,13 @@ This repo contains all the python files from the course
 
 All files are added step by step.
 
-Pyhton Libraries required
+Python Libraries required
 >>> Numpy
 >>> Matplotib
+
+Run  code_check.py  at the beginning to ensure that everything is smooth and running.
+
+
 
 Course is from Udemy
 Login :- 
