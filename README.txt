@@ -12,5 +12,6 @@ Run  code_check.py  at the beginning to ensure that everything is smooth and run
 
 
 Course is from Udemy
-Login :- 
-somdeb.electrical95@gmail.com
+Course Link :-  https://www.udemy.com/course/python-animations-for-engineers-bring-mathematics-to-life/learn/lecture/24459012#overview
+Instructor :-   Mark Misin
+Login :-  somdeb.electrical95@gmail.com
